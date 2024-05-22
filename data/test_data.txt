@@ -1,0 +1,41 @@
+1|Who was the President during the conflict?|George W. Bush|17311
+2|Who is the Senator of Colorado?|Cory Gardner|17311
+3|What was the revolt?|Tea Party Revolt|17311
+4|When did they get control back?|2010|17311
+5|Where is the senior Republican from?|Oklahoma|17311
+6|Who was the president during the Iraq War?|George W. Bush|17311
+7|What amount did Fox News offer?|20 Million|17339
+8|Where did Charlie Rose interview Kelly?|CBS Sunday Morning|17339
+9|When did Andrew Lack take over?|2015|17339
+10|What is Andrew Lack adding?|journalist schooled in the preferences and worldviews of the conservative Americans who helped elect Mr Trump|17339
+11|When is Donald Trump inaugurated?|Jan. 20|17339
+12|Who is a executive chairman?|Rupert Murdoch|17339
+13|Who is an executive chairman of 21st Century Fox?|Rupert Murdoch|17339
+14|Who is a novelist?|Douglas Brunt|17339
+15|Where was the shooting?|Panzhihua|17344
+16|Who was embarrassed by the violence?|Xi Jinping|17344
+17|Chen Zhongshu is the head of what?|Panzhihua Land and Resources Bureau,|17344
+18|The shooting happened where?|Panzhihua|17344
+19|What was Chen Zhongshu the head of?|Panzhihua Land and Resources Bureau,|17344
+20|When did Zhang starting working there?|2006|17344
+21|Where is Panzhihua?|Sichuan Province|17344
+22|What is Panzhihua?|industrial city|17344
+23|When were they murdered?|June 2015|17300
+24|What did they find him guilty of?|hate crimes resulting in death, obstruction of religion and firearms violations|17300
+25|Who faces the death penalty?|Dylan Roof|17300
+26|Who faces life in prison?|Dylan Roof|17300
+27|When did he write?|Dec. 16|17300
+28|Who is evil?|Dylan Roof|17300
+29|When did the police officer shoot?|2015|17300
+30|When was the coalition made?|2014|17344
+31|What did the Islamic State seize?|large areas in Iraq and neighboring Syria|17344
+32|When did the car bombing happen?|Monday|17344
+33|Where did the bombing occur?|a busy Baghdad market|17344
+34|Where did the attack occur?|Sadr City|17344
+35|How many died?|36|17344
+36|What was repeatedly attacked after the invasion?|Sadr City|17344
+37|What did the gunman have?|a rifle|17314
+38|Who is the spokesman?|Numan Kurtulmus|17314
+39|Where is the gunman from?|Kyrgyzstan or elsewhere in Central Asia|17314
+40|What happened in November?|A car bombing|17314
+41|When did Kurtulmus say the attack happened?|just after midnight on Sunday morning|17314
